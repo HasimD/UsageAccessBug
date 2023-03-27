@@ -1,5 +1,5 @@
 # UsageAccessBug
-It's created to demo the problem about Usage Access Settings for Wearable.
+It's created to demo the problem about Usage Access Settings for Wearable: https://issuetracker.google.com/issues/275245263
 
 The problem: I want to open settings screen for my app, as in the mobile app version. However in the Wear OS, it can't open my app's specific usage permission screen.
 
